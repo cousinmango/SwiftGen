@@ -16,7 +16,10 @@ _None_
 
 ### Bug Fixes
 
-_None_
+* Assets: improved the performance for color assets by caching the resolved colors.  
+  [David Jennes](https://github.com/djbe)
+  [#578](https://github.com/SwiftGen/SwiftGen/issue/578)
+  [#589](https://github.com/SwiftGen/SwiftGen/pull/589)
 
 ### Internal Changes
 
